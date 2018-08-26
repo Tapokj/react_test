@@ -1,2 +1,2 @@
-# react_test
+# React Test 
 Repository where I learn js-react. No more
